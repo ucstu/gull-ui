@@ -55,7 +55,7 @@
     "c12": "^2.0.1",
     "commander": "^12.1.0",
     "consola": "^3.2.3",
-    "diff": "^7.0.0",
+    "diff": "^8.0.3",
     "fs-extra": "^11.2.0",
     "https-proxy-agent": "^7.0.5",
     "lodash-es": "^4.17.21",
