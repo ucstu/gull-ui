@@ -65,7 +65,7 @@
     "autoprefixer": "^10.4.20",
     "fast-glob": "^3.3.2",
     "lodash-es": "^4.17.21",
-    "markdown-it": "^14.1.0",
+    "markdown-it": "^14.1.1",
     "pathe": "^1.1.2",
     "rimraf": "^6.0.1",
     "shiki": "^1.17.7",
